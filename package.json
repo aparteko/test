@@ -1,0 +1,15 @@
+{
+  "name": "elearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://env-7088260.njs.jelastic.vps-host.net:/opt/git/elaerning.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
